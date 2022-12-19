@@ -1,4 +1,4 @@
-## Project Link :https://nextjs13-blog-sanityv3-dracu-lah.vercel.app/
+## Project Link :https://dracula-blog.vercel.app/
 
 # Next.js + Tailwind CSS Example
 
